@@ -15,7 +15,7 @@ namespace SimpleWebApplicationG3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My name is Sanjana";
 
             return View();
         }
